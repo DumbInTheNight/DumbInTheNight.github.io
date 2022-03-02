@@ -1,0 +1,163 @@
+body {
+    margin: 0;
+
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+
+.heading-container {
+    text-align: center;
+    position: relative;
+    padding-top: 30px;
+    background-color: #B8FFF9
+    
+}
+
+h1 {
+    margin-top: 50px;
+    color: #66BFBF;
+    margin-bottom: 20px;
+    font-family: pacifico;
+    font-size: 5em;
+   
+
+}
+
+h2 { 
+    color: #66BFBF;
+    font-weight: normal;
+    font-size: 2.5em;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+hr {
+    border: none;
+    border-top: 10px dotted gray;
+    color: #fff;
+    background-color: #fff;
+    width: 5%;
+    margin: 90px auto;
+  }
+
+.heading-text {
+    color: #66BFBF;
+    position: relative;
+    bottom: 20px;
+    font-family: oswald;
+    font-size: 2.5rem; 
+
+}
+
+.top-cloud {
+    position: relative;
+    top: 60px;
+    left: 300px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 350px;
+    left: 150px;
+}
+
+.mountain { 
+    position: relative;
+    padding-top: 5px;
+
+}
+
+
+
+.middle-container {
+    text-align: center;
+    
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.profile-picture { 
+    height: 200px;
+    width: 200px;
+    margin-top: 60px;
+
+}
+
+.programming-picture { 
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.java-picture { 
+    float: right;
+    height: 200px;
+    width: 200px;
+    margin-left: 30px;
+}
+
+.skill-row { 
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.my-description { 
+    font-size: 1.2em;
+
+}
+
+.contact-me { 
+    text-align: center;
+
+}
+
+.footer-link { 
+    padding-right: 40px;
+    font-size: 1.2em;
+}
+
+
+p {
+    font-size: 1.0em;
+    
+}
+
+
